@@ -1,0 +1,2 @@
+
+const myImg = document.getElementby
